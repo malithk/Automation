@@ -1,4 +1,5 @@
 🚀 Web Automation Testing with Python, Selenium & AI
+
 This project demonstrates web automation testing using Python, Selenium, and Generative AI (DeepSeek) to enhance test script generation and execution. It includes simple yet practical test scenarios to help you understand how AI can assist in web automation testing.
 
 🛠️ Tech Stack
